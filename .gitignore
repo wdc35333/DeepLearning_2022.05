@@ -134,3 +134,9 @@ dmypy.json
 .gitignore
 03.CNN/Cifar_100.ipynb
 *.h5
+04.RNN/etriaikey.txt
+04.RNN/GoogleNews-vectors-negative300.bin
+.gitignore
+03.CNN/animals/*.jpg
+04.RNN/animals/*.jpg
+04.RNN/sparrow.jpg
